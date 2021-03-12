@@ -270,9 +270,16 @@ section.text-section h2 {
   text-align: center;
 }
 
-.billing-section_padding {
+.billing-section {
   padding-top: 12px !important;
-  padding-bottom: 39px !important;
+  padding-bottom: 0px !important;
+}
+
+section.billing-section p {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 22px;
+  color: black;
 }
 
 
