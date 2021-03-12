@@ -26,9 +26,9 @@
         width: 354px;
       }
 
-      .header__logo > a > img {
+      /* .header__logo > a > img {
         width: 118px;
-      }
+      } */
       
       .header__try-for-free-btn {
         font-style: normal;
@@ -281,6 +281,7 @@ section.billing-section p {
   line-height: 22px;
   color: black;
 }
+
 
 
 }
