@@ -23,12 +23,11 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 355px;
+        width: 354px;
       }
 
       .header__logo > a > img {
-        width: 116px;
-        height: 46px;
+        width: 118px;
       }
       
       .header__try-for-free-btn {
@@ -228,6 +227,7 @@ section.text-section h2 {
   line-height: 32px;
   margin: 30px 0 10px;
   color: rgb(0 0 0);
+  text-transform: uppercase;
 }
 
 .table-responsive {
@@ -262,6 +262,17 @@ section.text-section h2 {
   font-size: 20px;
   line-height: 36px;
   margin-top: 30px;
+}
+
+.billing__heading {
+  margin-top: 0px !important;
+  margin-bottom: 16px !important;
+  text-align: center;
+}
+
+.billing-section_padding {
+  padding-top: 12px !important;
+  padding-bottom: 39px !important;
 }
 
 
